@@ -20,12 +20,4 @@ This project involves an in-depth analysis of eCommerce sales data. The analysis
 - **Pandas**: Used for data cleaning, transformation, and analysis.
 - **Matplotlib**: Employed for creating detailed visualizations of the data.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- Required libraries:
-  - pandas
-  - matplotlib
 
